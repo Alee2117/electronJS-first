@@ -10,6 +10,8 @@ You can run locally using the normal commands
 
 <code>npm install</code>
 
+once it's done installing packages
+
 <code>npm run start</code>
 
 NOTE: it won't work if you're using WSL. The linux environment doesn't play nice with Electron. You can use normal Powershell or Git Bash or whatever else you choose.
